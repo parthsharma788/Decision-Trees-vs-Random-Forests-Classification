@@ -14,6 +14,6 @@ Random forest is a commonly-used machine learning algorithm, trademarked by Leo 
 - Random Forests **performed better** by reducing variance and improving generalization.
 
 #### Author - Parth Sharma
-####Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
+#### Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
 #### Email: Parthsharma2300@gmail.com
 ⭐ If you found this helpful, consider giving it a star!
